@@ -3,12 +3,6 @@
 
 ![Alt Text](/images/AshamedWeightyDachshund.webp)
 
-**INDE 577 — Data Science and Machine Learning**
-
-**Instructor : Randy R. Davila**
-
-**Course Description**: This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning. We will implement many of the machine learning algorithms from scratch, but will also make use of the Scikit-Learn and Tensorflow libraries.
-
 ## Contents of the repository
 
 #### [1. Supervised Learning](1.%20Supervised%20Learning)
